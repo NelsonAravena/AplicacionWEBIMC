@@ -1,0 +1,53 @@
+.text-align-center{
+    margin-right: 400px;
+    text-align: justify;
+    font-size:medium;
+    margin-top: 10px;
+    font-style:oblique;
+    color: aquamarine;
+}
+
+h1 {
+    color: aquamarine;
+    display: flex;
+    margin-top: 70px;
+    font-style: italic;
+    font-size:xx-large;
+}
+
+h3 {
+    color: aquamarine;
+}
+.btn {
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+    
+}
+
+.textos {
+    text-align: center;
+    display: block;
+    color: aquamarine;
+    margin-top: auto;
+
+}
+
+.theme-color {
+    background-color: aquamarine;
+}
+
+body {
+    box-shadow:inset;
+}
+
+.footer{
+    display: block;
+    margin-top: 200px;
+}
+
+.container {
+    display: block;
+    background-color: aqua;
+    margin-right: 500px;
+}

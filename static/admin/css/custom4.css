@@ -1,0 +1,47 @@
+h1 {
+    color: aquamarine;
+}
+
+.textos{
+    color: aquamarine;
+}
+
+h3 {
+    color: aquamarine;
+    
+}
+
+img {
+    margin-left: 300px;
+    margin-top: -150px;
+}
+
+output {
+    margin-left: 100px;
+}
+
+p{
+    display: block;
+    color: aqua;
+    margin-right: 450px;
+    font-size: 36px;
+    box-sizing: 20px;
+}
+
+h1 {
+    text-align: justify;
+    font-style: italic;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+td, th {
+    border: 1px solid aquamarine;
+    text-align: left;
+    padding: 8px;
+  }
+  
